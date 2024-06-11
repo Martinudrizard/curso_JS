@@ -1,0 +1,10 @@
+*{
+    margin: 0;  /*estilos globales*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.titulo{
+    color: aqua;
+}
